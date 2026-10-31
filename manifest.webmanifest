@@ -1,0 +1,44 @@
+{
+  "id": "./",
+  "name": "District +58 – Control de tienda",
+  "short_name": "District +58",
+  "description": "Inventario, ventas, gastos y ganancias de tu tienda. Funciona sin internet.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#010101",
+  "theme_color": "#010101",
+  "categories": [
+    "business",
+    "shopping",
+    "finance"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
